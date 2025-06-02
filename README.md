@@ -1,4 +1,4 @@
-# {{ exercise_name }} 
+# stage-fright 
 
 _Insert problem set description here_
 
