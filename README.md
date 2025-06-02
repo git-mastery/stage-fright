@@ -1,6 +1,7 @@
-# stage-fright 
+# stage-fright
 
-You're a stage producer trying to make sure all of your actors are present. Some have not checked in yet.
+You're a stage producer trying to make sure all of your actors are present.
+Jim and Carrey have already checked in, but some others have not checked in yet.
 
 Each actor has a time card. Add all of their time cards to the staging area!
 
