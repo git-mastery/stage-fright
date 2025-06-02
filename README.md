@@ -1,21 +1,18 @@
 # stage-fright 
 
-_Insert problem set description here_
+You're a stage producer trying to make sure all of your actors are present. Some have not checked in yet.
+
+Each actor has a time card. Add all of their time cards to the staging area!
 
 ## Learning outcomes
 
-_Insert problem set learning outcomes here_
+- [ ] Understand how `git add` and the staging area works
 
 ## Task
 
-_Insert problem set task here_
+Use `git add` to add the time cards of Alice, Bob, and Joe.
 
-The task should be a simplified form of what needs to be done.
+## Verification
 
-## Submission
+To verify your attempt, use `gitmastery verify`.
 
-To submit your attempt, use `gitmastery submit`.
-
-## Hints
-
-_Insert problem set hints here (if any)_
